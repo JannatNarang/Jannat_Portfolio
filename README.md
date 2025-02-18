@@ -41,3 +41,6 @@ pandas – Data manipulation & analysis.
 numpy – Numerical computations.
 
 matplotlib & seaborn – Data visualization.
+
+## Project Link
+[ProjectLink](https://github.com/JannatNarang/Jannat_Portfolio/blob/main/Credit_scoring_model_development.ipynb)
